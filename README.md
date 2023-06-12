@@ -60,4 +60,4 @@ Contributions to this repository are welcome. If you find any issues or have ide
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to
+This repository is licensed under the [MIT License](LICENSE).
